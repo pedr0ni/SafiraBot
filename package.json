@@ -1,0 +1,17 @@
+{
+  "name": "safirabot",
+  "version": "1.0.0",
+  "description": "Discord Music Bot with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Pedroni",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "opusscript": "0.0.6",
+    "request": "^2.83.0",
+    "ytdl-core": "^0.20.1"
+  }
+}
